@@ -1,10 +1,8 @@
 #hangman
 
 #import
-from dis import dis
+
 import random
-from tkinter import N
-from turtle import clear
 from Hangman_Stages import stages
 
 #global variables
